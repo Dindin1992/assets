@@ -45,8 +45,9 @@ github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6r
 github.com/bytedance/sonic v1.9.1 h1:6iJ6NqdoxCDr6mbY8h18oSO+cShGSMRGCEo7F2h0x8s=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/cespare/xxhash/v2 v2.1.1/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
-github.com/cespare/xxhash/v2 v2.1.2 h1:YRXhKfTDauu4ajMg1TPgFO5jnlC2HCbmLXMcTG5cbYE=
 github.com/cespare/xxhash/v2 v2.1.2/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
+github.com/cespare/xxhash/v2 v2.2.0 h1:DC2CZ1Ep5Y4k3ZQ899DldepgrayRUGE6BBZ/cd9Cj44=
+github.com/cespare/xxhash/v2 v2.2.0/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
 github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311 h1:qSGYFH7+jGhDF8vLC+iwCD4WpbV1EBDSzWkJODFLams=
 github.com/chzyer/logex v1.1.10/go.mod h1:+Ywpsq7O8HXn0nuIou7OrIPyXbp3wmkHB+jjWRnGsAI=
 github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e/go.mod h1:nSuG5e5PlCu98SY8svDHJxuZscDgtXS6KTTbou5AhLI=
@@ -245,8 +246,8 @@ github.com/subosito/gotenv v1.2.0 h1:Slr1R9HxAlEKefgq5jn9U+DnETlIUa6HfgEzj0g5d7s
 github.com/subosito/gotenv v1.2.0/go.mod h1:N0PQaV/YGNqwC0u51sEeR/aUtSLEXKX9iv69rRypqCw=
 github.com/trustwallet/assets-go-libs v0.3.5 h1:xYgaDdy0VG9H3dHq+Cp830vYaZUHWA0SKbB/Nyb3ptg=
 github.com/trustwallet/assets-go-libs v0.3.5/go.mod h1:03cXr+ABmrdDXZkoPPdP6h3oN2RCsGPx6QqILORpEW0=
-github.com/trustwallet/go-libs v0.8.3 h1:akOCCOvDAnhn4IM48FVH/vefTz0D3xgymNqtusYJsUo=
-github.com/trustwallet/go-libs v0.8.3/go.mod h1:SX5fCsTx8jJfHZlV/kqzsIyVAnzU2GAlY+Wum3O8vco=
+github.com/trustwallet/go-libs v0.8.6 h1:ZPLoHvi0whIb3QO1VkSQfXOcrk+LGGUO/hcmPcaxB90=
+github.com/trustwallet/go-libs v0.8.6/go.mod h1:dfYZycN97Cm7Wycg76MwcAcseKxIriB9JsjIGcYMiSk=
 github.com/trustwallet/go-primitives v0.0.82 h1:Oqxt/77Rmsas3XlgvbmqFNz7X9RtA79AKNWehmuMMUA=
 github.com/trustwallet/go-primitives v0.0.82/go.mod h1:GN9WNIOvtz9j77FSYLEqC7apbMlzQnFLNO9LOCMy5Mc=
 github.com/twitchyliquid64/golang-asm v0.15.1 h1:SU5vSMR7hnwNxj24w34ZyCi/FmDZTkS4MhqMhdFk5YI=
