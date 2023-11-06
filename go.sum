@@ -247,8 +247,8 @@ github.com/trustwallet/assets-go-libs v0.3.6 h1:JJO/1R8YxMiYt8aDq1ttIhMEj8zjh/Lm
 github.com/trustwallet/assets-go-libs v0.3.6/go.mod h1:4BokTTw6UBPEsyXv8jHmX07bKECLcDbzX8YnIBNrCg8=
 github.com/trustwallet/go-libs v0.8.3 h1:akOCCOvDAnhn4IM48FVH/vefTz0D3xgymNqtusYJsUo=
 github.com/trustwallet/go-libs v0.8.3/go.mod h1:SX5fCsTx8jJfHZlV/kqzsIyVAnzU2GAlY+Wum3O8vco=
-github.com/trustwallet/go-primitives v0.0.82 h1:Oqxt/77Rmsas3XlgvbmqFNz7X9RtA79AKNWehmuMMUA=
-github.com/trustwallet/go-primitives v0.0.82/go.mod h1:GN9WNIOvtz9j77FSYLEqC7apbMlzQnFLNO9LOCMy5Mc=
+github.com/trustwallet/go-primitives v0.1.10 h1:RaXEfdbYBf65NRTxxStPJjZDjVauchJY09hcN90s30E=
+github.com/trustwallet/go-primitives v0.1.10/go.mod h1:GN9WNIOvtz9j77FSYLEqC7apbMlzQnFLNO9LOCMy5Mc=
 github.com/twitchyliquid64/golang-asm v0.15.1 h1:SU5vSMR7hnwNxj24w34ZyCi/FmDZTkS4MhqMhdFk5YI=
 github.com/ugorji/go/codec v1.2.11 h1:BMaWp1Bb6fHwEtbplGBGJ498wD+LKlNSl25MjdZY4dU=
 github.com/yuin/goldmark v1.1.25/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
